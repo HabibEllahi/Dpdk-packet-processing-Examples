@@ -1,4 +1,4 @@
-# Dpdk-packet-processing-Examples
+# Dpdk Based Firewall
 
 This repository contains the source code developed for the Bachelor's Thesis 
 focused on the use of **DPDK (Data Plane Development Kit)** to implement a 
