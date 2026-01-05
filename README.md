@@ -25,7 +25,7 @@ packet inspection, forwarding, filtering, and modification directly in the data 
 
 ## 🧪 Implemented Scenarios
 
-### 🔹 Scenario 2 – ICMP Packet Forwarding
+### 🔹 ICMP Packet Forwarding
 
 File: src/icmp_forwarding.c
 
@@ -42,7 +42,7 @@ processing without filtering rules.
 
 ---
 
-### 🔹 Scenario 3 – DPDK Firewall with Packet Filtering
+### 🔹 DPDK Firewall with Packet Filtering
 
 File: src/dpdk_firewall.c
 
